@@ -1,3 +1,5 @@
 Test Git Quick Start Branching
 
+Add a new line.
+
 Copyright notice Iancu George-Alexandru 2024.
