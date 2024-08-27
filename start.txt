@@ -1,3 +1,3 @@
-Test Git Quick Start demo
+Test Git Quick Start Branching
 
-Copyright notice IGA 2024.
+Copyright notice Iancu George-Alexandru 2024.
