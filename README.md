@@ -1,4 +1,4 @@
-# github-demo
+# github-demo_branching
 A simple repository to show the basic Git workflow.
 
 Update readme file.
