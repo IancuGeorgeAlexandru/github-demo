@@ -9,3 +9,4 @@ Another simple update.
 This is section 1 of the README.md file.
 
 ## Section 2
+This is section 2 of the README.md file.
