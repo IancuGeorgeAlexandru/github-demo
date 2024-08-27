@@ -5,3 +5,6 @@ This is a new feature.
 This is the new second feature.
 
 This is a future from the simple-changes branch.
+
+#Thanks --> myfeature branch
+My mom and my dad.
