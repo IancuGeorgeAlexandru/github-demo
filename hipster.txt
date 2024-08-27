@@ -3,3 +3,5 @@ This is a random file with txt.
 This is a new feature.
 
 This is the new second feature.
+
+This is a future from the simple-changes branch.
