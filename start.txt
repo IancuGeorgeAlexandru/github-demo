@@ -1,4 +1,4 @@
-Test Git Quick Start Branching and Stashing
+Title for tagging examples.
 
 Copyright notice Iancu George-Alexandru 2024.
 
