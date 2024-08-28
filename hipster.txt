@@ -1,4 +1,4 @@
-This is a random file with txt.
+This is a tagging example file with txt.
 
 This is a new feature.
 
