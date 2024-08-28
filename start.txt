@@ -1,4 +1,4 @@
-Test Git Quick Start Branching
+Test Git Quick Start Branching and Stashing
 
 Copyright notice Iancu George-Alexandru 2024.
 

@@ -7,4 +7,4 @@ This is the new second feature.
 This is a future from the simple-changes branch.
 
 #Thanks --> myfeature branch
-My dog.
+My dog and my cat.
