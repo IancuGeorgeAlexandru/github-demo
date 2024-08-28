@@ -1,6 +1,6 @@
 # github-demo-branching-test-branch
 
-Copyright IGA 2024.
+Copyright IGA 2024. All rights reserved.
 
 A simple repository to show the basic Git workflow.
 
